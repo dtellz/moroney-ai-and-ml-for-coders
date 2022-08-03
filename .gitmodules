@@ -1,0 +1,3 @@
+[submodule "tensor-flow-practical-apps"]
+	path = tensor-flow-practical-apps
+	url = https://github.com/dtellz/tensor-flow-practical-apps.git
