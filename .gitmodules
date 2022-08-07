@@ -2,3 +2,6 @@
 	path = tensor-flow-practical-apps
 	url = https://github.com/dtellz/tensor-flow-practical-apps.git
 
+[submodule "datasets/fashion-mnist"]
+	path = datasets/fashion-mnist
+	url = https://github.com/zalandoresearch/fashion-mnist
