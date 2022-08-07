@@ -13,5 +13,5 @@ ys = np.array([-3.0, -1.0, 1.0, 3.0, 5.0, 7.0], dtype=float) # y= -3, -1, 1, 3, 
 model.fit(xs, ys, epochs=500) # This is the neural network learning process
 
 print(model.predict([10, 0])) # Asking the model to predict what will be the value of Y when X is 10
-# Output [[18.97963  ][-0.9908468]]
+# Output [[18.97963  ][-0.9908468]] <- [weight, bias]
 print("Model learned (layer 0): {}".format(l0.get_weights()))
