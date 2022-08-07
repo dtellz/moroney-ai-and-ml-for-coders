@@ -6,3 +6,8 @@ create env: conda create --name tensorflow-gpu
 activate env: conda activate tensorflow-gpu
 install tensorflow: pip install tensorflow
 if GPU not supported: pip install tensorflow-cpu
+
+
+MACHINE LEARNING TERMINOLOGY:
+"hyper parameter": a value used to control the learning as opossed to the internal values
+                   of the neurons that get trained whish are referred to as parameters
