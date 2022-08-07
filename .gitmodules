@@ -1,6 +1,4 @@
 [submodule "tensorflow-apps"]
 	path = tensor-flow-practical-apps
 	url = https://github.com/dtellz/tensor-flow-practical-apps.git
-[submodule "scripts/fashion-mnist"]
-	path = scripts/fashion-mnist
-	url = https://github.com/zalandoresearch/fashion-mnist
+
