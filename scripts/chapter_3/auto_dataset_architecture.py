@@ -1,9 +1,9 @@
 import urllib.request
 import zipfile
 
-url = 'https://storage.googleapis.com/laurencemoroney-blog.appspot.com/hores-or-human.zip'
+url = 'https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip'
 
-fileName = 'hores-or-human.zip'
+fileName = 'horse-or-human.zip'
 trainingDirectory = 'horse-or-human/training/'
 urllib.request.urlretrieve(url, fileName)
 
