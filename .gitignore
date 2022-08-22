@@ -128,3 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
+
+#Avoid datasets in the remote repo
+*.zip
+**/horse-or-human
+ 
