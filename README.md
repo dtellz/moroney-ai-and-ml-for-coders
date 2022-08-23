@@ -1,1 +1,3 @@
-This are my first steps in the field of AI and ML
+<p align='center'>
+    <img src='https://www.webtunix.ai/static/img/faceman.gif'>
+</p>
