@@ -1,3 +1,1 @@
-<p align='center'>
-    <img src='https://www.webtunix.ai/static/img/faceman.gif'>
-</p>
+![](https://github.com/moroney-ai-and-ml-for-coders/ai.gif)
