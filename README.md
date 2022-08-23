@@ -1,1 +1,3 @@
-![](https://github.com/moroney-ai-and-ml-for-coders/ai.gif)
+# AI and Machine Learning for Coders
+
+<img src='./ai.gif' width='300' height='300'>
