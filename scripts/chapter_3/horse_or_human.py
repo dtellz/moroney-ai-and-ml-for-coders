@@ -65,5 +65,5 @@ for filename in os.listdir(prediction_directory):
     print(classes)
     print(classes[0])
 
-    if(classes[0]>0.5): print(filename + 'is a human')
-    else: print(filename + 'is a horse')
+    if(classes[0]>0.5): print(filename + ' is a human')
+    else: print(filename + ' is a horse')
