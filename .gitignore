@@ -133,4 +133,4 @@ dmypy.json
 #Avoid datasets in the remote repo
 *.zip
 **/horse-or-human
- 
+*.h5
